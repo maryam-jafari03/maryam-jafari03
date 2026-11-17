@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Maryam Jafari! 👋
 
-<!--
-**maryam-jafari03/maryam-jafari03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Backend Developer** with a passion for Python and building practical APIs.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **[AI Image Summarizer](https://github.com/maryam-jafari03/ai-image-summarizer)** (FastAPI + OpenRouter LLM)
+- 🌱 I’m currently learning: **Docker & PostgreSQL**
+- 💬 Ask me about: **Python, FastAPI, Django ORM, REST APIs**
+- 📫 How to reach me: [Email](mailto:maryjf238@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 My Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 📌 Featured Projects
+- **[AI Image Summarizer](https://github.com/maryam-jafari03/ai-image-summarizer)**: A FastAPI backend that receives images, processes them, and uses OpenRouter LLMs to generate text summaries.
